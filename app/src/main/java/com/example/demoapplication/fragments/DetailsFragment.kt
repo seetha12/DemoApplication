@@ -6,7 +6,7 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import com.example.demoapplication.R
-import com.example.demoapplication.service.User
+import com.example.demoapplication.service.model.User
 import kotlinx.android.synthetic.main.fragment_details.*
 
 class DetailsFragment: Fragment() {
